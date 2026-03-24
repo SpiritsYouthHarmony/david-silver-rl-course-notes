@@ -18,6 +18,7 @@
 ---
 
 ## 📁 目录结构
+```
 rl-course-notes/
 ├── README.md  
 ├── Lecture_1/
@@ -27,3 +28,4 @@ rl-course-notes/
 │ └── ...
 ├── textbooks/
 └── codes/
+```
