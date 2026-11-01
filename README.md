@@ -25,7 +25,12 @@ rl-course-notes/
 │ ├── RL_course_1.pdf  
 │ ├── intro_rl.pdf 
 ├── Lecture_2/
-│ └── ...
-├── textbooks/
-└── codes/
+│ ├── RL_course_2.pdf 
+│ ├── lecrue-2-mdp.pdf
+├── Lecture_3/
+│ ├── RL_course_3.pdf
+│ ├── lecture-3-planning-by-dynamic-programming-.pdf
+├── Lecture_4/
+...
+
 ```
